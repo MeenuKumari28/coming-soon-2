@@ -38,8 +38,8 @@ light: #666666
 dark: #303030
 
 -- ftd.color text-:
-light: #ffffff
-dark: #ffffff
+light: #DADADA
+dark: #DADADA
 
 -- ftd.color text-strong-:
 light: #ffffff
