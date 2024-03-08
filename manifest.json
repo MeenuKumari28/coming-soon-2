@@ -50,15 +50,10 @@
       "checksum": "17DC0D44C9BD8623ECD3CB292837EDB7D8106E083489D3F14599AF488A5F9453",
       "size": 1241
     },
-    "assets/ipsum-logo-dark.svg": {
-      "name": "assets/ipsum-logo-dark.svg",
-      "checksum": "8290B3397C465FE1BB40B7CA280C976DF7DA3DABFC655B429805ABF33964FB5B",
-      "size": 16202
-    },
-    "assets/ipsum-logo.svg": {
-      "name": "assets/ipsum-logo.svg",
-      "checksum": "A227CF22E798ACFB2D01B6352FC22A28047444F028AF05440C6CE6F9499C0EDF",
-      "size": 15494
+    "assets/logo.svg": {
+      "name": "assets/logo.svg",
+      "checksum": "B215885035689DC2B16F76098169A46B1EB65D241E0CA161AAE9F593978ACB2D",
+      "size": 4540
     },
     "ds.ftd": {
       "name": "ds.ftd",
@@ -72,17 +67,17 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "8669FF0EA5A985885B101AF5600FE72A6A3A6AC7D18D56FA175D5059E44D9797",
-      "size": 354
+      "checksum": "BB7C27B86487297C0CD743F241EE3BB75B07AF6BF42EC8EC9A8611BC9D326AB7",
+      "size": 319
     },
     "lib.ftd": {
       "name": "lib.ftd",
-      "checksum": "EAD79C37F7433F728A9401382E46CF023FE520218671972709DA9256CF4ED87E",
-      "size": 2306
+      "checksum": "F38ED190AB2CB776A1C0F0F1BAE33098E8EEE383AD8977AECF0CF2A134D5453C",
+      "size": 2472
     },
     "themecolors.ftd": {
       "name": "themecolors.ftd",
-      "checksum": "1E3A8BE23ECA6EF41C9DC4014C7CB79C83E335CEF06F891E2FB5912FDCEA62E2",
+      "checksum": "A2F2189B0F7225376D3C66702EBB56F0A8CAD6801495238B4C4AC5B45786E55E",
       "size": 6480
     },
     "vercel.json": {
@@ -92,5 +87,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/meenukumari28/coming-soon-2/zip/refs/heads/main",
-  "checksum": "6B9290C2692757F0E7D3F268E527CE86210FD0FF94C2B44EA775EEA9C49C4935"
+  "checksum": "A8002117260E76AA4E6B429627C5E9DE147677AA6073B66416C14362410F973E"
 }
